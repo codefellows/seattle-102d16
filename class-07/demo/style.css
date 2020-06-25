@@ -1,0 +1,39 @@
+/* * {
+    border: solid black 1px;
+} */
+
+body {
+    background-color: bisque;
+
+}
+
+nav > ul > li {
+    display: inline;
+    border: solid 2px black;
+    padding: 5px;
+    margin: 5px 40px 20px 40px;
+    background-color: red;
+    
+}
+
+nav > ul {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+
+#other, #hero_section{
+    text-align: center;
+}
+
+#hero {
+    width: 500px;
+}
+
+#pro, #conn {
+    border: solid black 1px;
+}
